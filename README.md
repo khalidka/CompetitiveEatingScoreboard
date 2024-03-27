@@ -1,4 +1,4 @@
-# Competitive Eating Competition Scoreboard
+# Competitive Eating Scoreboard
 
 This project implements a Python script to calculate scores for participants in a competitive eating competition based on the number of chicken wings, hamburgers, and hotdogs consumed. The script then generates a scoreboard sorted by score and participant name.
 
